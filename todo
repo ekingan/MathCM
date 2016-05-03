@@ -1,0 +1,8 @@
+todo
+-validate email is correct format
+-make instead of boolean, datetime
+(if true => datetime in controller)
+-extend code for all checkboxes
+
+in server.js sync force:true make the db drop
+in core/database.js you can chance server
